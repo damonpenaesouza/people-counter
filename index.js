@@ -17,3 +17,4 @@ function save() {
 function reset() {
     
     saveEl.textContent = " "
+}
